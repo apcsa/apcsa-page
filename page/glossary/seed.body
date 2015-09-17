@@ -1,0 +1,10 @@
+<p> 
+A seed is a parameter given to a <a href="glossary.php?term=pseudo-random_number_generator">
+pseudo-random number generator</a>.  In most generators, the seed is a number,
+and different seeds will produce different sequences of pseudo-random numbers.  
+</p>
+<p>
+In good generators&mdash;that is, ones that
+generate numbers that appear quite random&mdash;seeds that are quite close to each other
+will still produce pseudo-random numbers that don't appear related in any way.
+</p>

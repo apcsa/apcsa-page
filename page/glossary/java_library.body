@@ -1,0 +1,8 @@
+<p>
+The <i>Java library</i> contains many pre-written Java classes that can be used in new programs.  
+It is sometimes called the <i>Java class library</i>.  There are thousands and thousands of classes available, 
+and using them can make programs you write shorter, easier to create, and contain fewer bugs.
+</p>
+<p>
+The official Java library for Java 1.6.0 is available at <a>http://java.sun.com/j2se/1.6.0/docs/api/</a>.
+</p>

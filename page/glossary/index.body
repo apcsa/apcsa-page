@@ -1,0 +1,6 @@
+<p>
+The position of an element of a <a href="glossary.php?term=string">string</a>
+ or an <a href="glossary.php?term=array">array</a>.
+Index values in Java start at 0, which is the position of the first character
+in a string or the first element in an array.
+</p>

@@ -1,0 +1,6 @@
+<p> 
+A superclass is a Java class that at least one other class inherits from.  The 
+class that inherits from the superclass is called a 
+<A href="glossary.php?term=subclass">subclass</A>.  
+</p>
+<p>See the glossary entry for <A href="glossary.php?term=inheritance">inheritance</A>.</p>

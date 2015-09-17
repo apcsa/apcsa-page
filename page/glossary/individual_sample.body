@@ -1,0 +1,9 @@
+<p>
+Digitally recorded sounds contain samples of the air pressure over time.
+An individual sample, then, is a single measurement of pressure.  This
+is almost always recorded as an integer.  The individual samples in
+sounds typically on 
+compact discs are integers that vary between -32768 and 32768, implying
+that there are more than 65,000 levels of pressure that can be detected.</p>
+
+<p>Also see <a href="glossary.php?term=sampling_rate">sampling rate</a>.</p>

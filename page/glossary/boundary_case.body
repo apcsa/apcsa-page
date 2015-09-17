@@ -1,0 +1,6 @@
+<p>
+A situation or value that is at or near some "boundary".
+For example, boundary cases for a string of seven characters would include
+the first and last characters or positions in the string, along with illegal
+positions -1 and 7.
+</p>

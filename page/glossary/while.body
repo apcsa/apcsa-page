@@ -1,0 +1,28 @@
+<p>
+   A <tt>while</tt> statement is a way to 
+   create Java <a href="glossary.php?term=loop">loops</a>.
+</p>
+<p>
+   A <tt>while</tt> statement consists of:
+</p>
+<ol>
+	<li>the keyword <tt>while</tt>;</li>
+	<li>a boolean expression enclosed in parentheses; and</li>
+	<li>a program segment to be repeated, 
+   referred to as the <a href="glossary.php?term=loop_body">body</a>
+	of the <tt>while</tt> statement.</li>
+</ol>
+<p>
+   For instance, the code
+</p>
+<pre>
+   int x = 0;
+   while (x &lt; 10) {
+     doSomethingSpecialWith(x);
+     x = x + 1;
+     }
+</pre>
+<p>
+   will call the method <tt>doSomethignSpecialWith</tt> with the integer
+   0, then with the integer 1, and so on up to 9.
+</p>

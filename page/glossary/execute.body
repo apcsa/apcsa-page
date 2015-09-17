@@ -1,0 +1,12 @@
+<p>
+In reference to a program, to run the program after <a href="glossary.php?term=compile">compiling</a> it.
+In reference to a statement in a program, to carry out the statement.
+For examples, see the individual kinds of statements:
+</p>
+<ul>
+<li><a href="glossary.php?term=assignment_statement">assignments</a></li>
+<li><a href="glossary.php?term=method call">method calls</a></li>
+<li><a href="glossary.php?term=return">return</a></li>
+<li><a href="glossary.php?term=conditional statement">conditionals</a></li>
+<li><a href="glossary.php?term=loop">loops</a></li>
+</ul>

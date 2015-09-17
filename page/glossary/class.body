@@ -1,0 +1,16 @@
+<p>
+A class is a programming language construct that is used as a blueprint 
+to create objects. This blueprint describes the state and behavior that 
+the created objects all share. An object created by a class is an instance 
+of the class, and the class that created that instance can be considered 
+as the type of that object, e.g. a type of an object created by a "Fruit" 
+class would be "Fruit".
+</p>
+
+<p>
+A class may represent a person, place, or thing - it is an abstraction 
+of a concept within a computer program. Fundamentally, it encapsulates 
+the state and behavior of the concept it represents. It encapsulates state 
+through data placeholders called attributes (or member variables or 
+instance variables); it encapsulates behavior through reusable code called methods.
+</p>

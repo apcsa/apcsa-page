@@ -1,0 +1,11 @@
+<p>
+An attribute of a Java method or instance variable
+that specifies that any statement outside as well as inside the enclosing
+class can 
+call the method
+or access the instance variable.
+In Java programs, methods are  often public.
+</p>
+<p>
+Contrast <a href="glossary.php?term=private">private</a>.
+</p>

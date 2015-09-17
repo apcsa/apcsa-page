@@ -1,0 +1,19 @@
+<p> 
+A static method is one that is available to the entire program rather than just to instances of the class from
+within which it is defined.  Statements within the static method are not able to view or change non-static instance variables
+or instances of the class.  Therefore, you are unable to make use of the keyword <tt>this</tt> in static methods.
+</p>
+<p>To invoke a static method, include the name of the class, the dot operator, and then the name of the method.  
+The <tt>Math</tt> class contains many static methods; to call the static method <tt>sqrt</tt>
+on a variable <tt>x</tt>, for instance, you would include the 
+following statement in your program:
+</p>
+<pre>
+
+   ... Math.sqrt(x) ...
+
+</pre>
+<p>Static methods are often confusing to students learning to program, so if you are having some trouble with them
+you are not alone!</p>
+
+<!--  TODO   yeah, an example would be nice. -->

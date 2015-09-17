@@ -1,0 +1,9 @@
+<p>
+To finish executing a method call.  The next statement to be executed
+will be the statement right after the method call.
+</p>
+<p>
+Returning from a method can be done implicitly, by executing the last
+statement of a <tt>void</tt> method, or explicitly, by executing
+the <tt>return</tt> statement.
+</p>

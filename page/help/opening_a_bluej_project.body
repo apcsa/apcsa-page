@@ -1,0 +1,51 @@
+
+
+<p><b>There are three main ways you will open a project in BlueJ.</b></p>
+<ol>
+	<li>Use the operating system to go to the project folder and double-click the <tt>.pkg</tt> file.</li> 
+	<li>From within BlueJ, use the <tt>Open Project</tt> menu in BlueJ.  The <tt>Open Recent</tt> menu
+	is a quick way to open a project that you have been working on recently.</li> 
+	<li>Use the special extension that we have provided to open the project referred to 
+	in the learning environment.  More on this below.</li>
+</ol>
+
+<p>In this course, we will be having you work on many small projects as we explore 
+different solutions to a problem, as well as larger projects as you become a more
+experienced programmer. You will need to take some care in keeping 
+track of what changes you have made and where you have made them.
+</p>
+
+<h4>Using the <em>UCCP Advanced Placement CS A</em> BlueJ Extension</h4>
+<p>
+To help switch between projects, we have created a special 
+Bluej extension that makes things easy.  Certain  
+pages in the course instruct you to open a BlueJ project, like this:
+</p>
+
+
+<div class="openbluejproj">
+<p>These boxes are used to tell you to open a certain BlueJ project.
+</p></div>
+
+<p>When you are viewing one of those pages, you can load that specific project by:
+</p>
+
+<ul>
+	<li>Switching to BlueJ, or starting it if you don't have it running already</li>
+	<li>Clicking on the <tt>Tools</tt> menu, and selecting the <tt>Open Current BlueJ Project</tt> 
+	menu item.  </li>
+	</ul>
+	
+<p>Note that this will close the other BlueJ projects you have open.  It is good practice to save your work 
+often, even though you will be asked if you want to save any unsaved work before the projects are closed.
+</p>  
+
+
+
+<ul class="related"> 
+	<li><a href="help.php?topic=starting_bluej">Starting BlueJ</a></li>
+	<li><a href="help.php?topic=downloading_the_course_bluej_projects">Downloading the BlueJ projects used in the course</a></li>
+
+	<li><a href="help.php?topic=what_is_a_bluej_project">What is a BlueJ project?</a></li>
+	
+	</ul>

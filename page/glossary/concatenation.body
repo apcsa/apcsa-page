@@ -1,0 +1,5 @@
+<p>
+The joining of two strings to form a larger string;
+for example, concatenation of "abc" and "defg" results in the string "abcdefg".
+Implemented in Java with the + operator.
+</p>

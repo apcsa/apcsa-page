@@ -1,0 +1,5 @@
+<p> 
+A two-dimensional array is one with two sets of indicies, as opposed to a single set of indicies in a one-dimensional array.
+A two-dimensional array can be thought of as a flat, rectangular grid.  Each cell of the grid, and correspondingly each element
+of a two-dimensional array, can be referenced by both a column <i>and</i> a row index.
+</p>

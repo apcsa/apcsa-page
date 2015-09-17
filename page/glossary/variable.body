@@ -1,0 +1,14 @@
+<p>
+   A unit of memory.  A variable has a <i>name</i>, with which it is accessed, 
+   an associated <i>value</i>
+   (sometimes referred to as the <i>contents</i>
+   of the variable), and a <a href="glossary.php?term=type">type</a>,
+   which says what kinds of values the variable may take on.
+</p>
+<p>
+   The type and name of a variable are specified in a <a href="glossary.php?term=declaration">declaration</a>. 
+   A variable's value can be set or changed with an <a href="glossary.php?term=assignment_statement">assignment statement</a>.
+</p>
+<p>
+   In Java, variables are sometimes called "state variables" or "instance variables".  
+</p>

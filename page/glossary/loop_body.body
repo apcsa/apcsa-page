@@ -1,0 +1,6 @@
+<p>
+   In a Java <a href="glossary.php?term=loop">loop</a>,
+   the statements that are repeated 0 or more times
+   by the looping control structure are collectively called the <i>loop body</i>, 
+   or body of the loop.  
+</p>

@@ -1,0 +1,10 @@
+<p>
+A "place holder" variable in the method signature located between the parentheses.
+
+For example, the integer variable <tt>number</tt> is the parameter:
+	<pre>public void exampleMethod(int number)</pre>
+
+<br />
+When the method is called, the variable is assigned a value supplied
+as an <a href="glossary.php?term=argument">argument</a> in the call.
+</p>

@@ -1,0 +1,13 @@
+<p>
+   A Java expression that evaluates to either <tt>true</tt>
+   or <tt>false</tt>.  Boolean expressions can be used to set
+   the value of boolean variables, to determine whether a 
+   <a href="glossary.php?term=loop">loop</a> should continue, and 
+   so forth.
+</p>
+<p>
+   Many operators can be used in boolean expressions, such as
+   <tt>==</tt>, <tt>&gt;</tt>, and so forth.  Calls to methods of 
+   type <tt>Boolean</tt> (i.e., that return <tt>true</tt> or
+   <tt>false</tt>) are boolean expressions.
+</p>

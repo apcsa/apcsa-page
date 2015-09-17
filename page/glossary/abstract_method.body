@@ -1,0 +1,9 @@
+<p> 
+An abstract method is a method which can only be present in an <A href="glossary.php?term=abstract_class">abstract class</A>.  
+The keyword <tt>abstract</tt> is used to declare a method as abstract, and it can never be invoked.
+</p>
+
+<p>
+An abstract method serves as a template&mdash;it just has a <a href="glossary.php?term=method_header">header</a>
+and no body&mdash;to guide the writing of methods in subclass that will override it.  
+</p>

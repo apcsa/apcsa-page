@@ -1,0 +1,6 @@
+<p>
+The start of a method&mdash;everything up to a left brace&mdash;in which
+the method's access specifier, return <a href="glossary.php?term=type">type</a>, name,
+ <a href="glossary.php?term=parameter">parameters</a>, and exception list are specified.
+This is related to the method's <a href="glossary.php?term=signature">signature</a>.
+</p>

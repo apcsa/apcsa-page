@@ -1,0 +1,12 @@
+<p>
+The Java construct used to specify 
+a <a href="glossary.php?term=variable">variable's</a> 
+name and <a href="glossary.php?term=type">type</a>.
+</p>
+<p>For instance,</p>
+<pre>
+   int count;
+   double pi=3.1415;
+   String myFirst;
+</pre>
+<p>are all declarations.</p>

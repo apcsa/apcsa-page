@@ -1,0 +1,8 @@
+<p> 
+A pseudo-random number generator is a computer program that generates numbers that appear to be 
+random (that is, without any discernable pattern).  In fact, however, the program is completely
+predictable and, with the same parameters, will produce the same numeric output.
+</p>
+<p>
+The parameter to such a generator&mdash;there is generally only one&mdash;is called 
+a <a href="glossary.php?term=seed">seed</a>.</p>

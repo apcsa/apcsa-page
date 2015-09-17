@@ -1,0 +1,29 @@
+<p>
+   An event is signal that Java uses to either interrupt the 
+   normal flow of control or to send messages from one part of the  
+   program to another.  In this course, the events that you will see are 
+   initiated by the user - rather than the programmer.  Most commonly,  
+   these are mouse clicks.  See the <a href="glossary.php?term=mouse_event">mouse event</a>
+   glossary page.
+</p>
+<p>
+   Special methods are written that are called when an event occurs, 
+   or is <i>triggered</i>. 
+   These are called <i>handlers</i>, or <i>event handlers</i>.  In Java, 
+   these methods are described in 
+   <a href="glossary.php?term=interface">interfaces</a>
+   called listeners. 
+   To write a method that handles a particular event, a programmer 
+   writes a class that implements the interface for that event.  
+   Because these methods are not called directly by the programmer,
+   they are <a href="glossary.php?term=callback">callback methods</a>.
+</p>
+<p>
+   For 
+   instance, to handle mouse click events, the programmer writes a  
+   class that implements the <tt>MouseListener</tt>
+   interface, which 
+   necessitates that a method <tt>mouseClicked</tt>
+   is defined in the 
+   class.  That method will be triggered by the event.
+</p>

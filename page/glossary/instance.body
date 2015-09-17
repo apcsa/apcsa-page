@@ -1,0 +1,6 @@
+<p>
+An instance commonly means a data structure consisting of data fields 
+and procedures (methods) that can manipulate those fields. Typically, 
+when calling a method from some object, the instance(object) itself should be 
+passed as a parameter to the method.
+</p>

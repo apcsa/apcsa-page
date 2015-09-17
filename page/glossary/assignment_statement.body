@@ -1,0 +1,14 @@
+<p>
+A statement that updates the value of a variable.
+The format of an assignment statement is as follows:
+</p>
+<ol>
+<li>the name of a <a href="glossary.php?term=variable">variable</a>, followed by</li>
+<li>an equals sign, followed by</li>
+<li>an <a href="glossary.php?term=expression">expression</a>.</li>
+</ol>
+<p>
+The statement is executed by evaluating the expression on the right 
+of the equals sign, and assigning the resulting value to the variable
+on the left.
+</p>

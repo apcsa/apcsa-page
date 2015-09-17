@@ -1,0 +1,11 @@
+<p> 
+An average, or mean, of a set of numbers can be calculated as the sum of the numbers divided by the amount of numbers in the set.
+For example, the average of the set of numbers <Tt>1</Tt>, <tt>2</tt>, <tt>3</tt>, and <tt>4</tt> is equal to 
+</p>
+<pre>
+
+   ( 1 + 2 + 3 + 4 ) / 4
+
+</pre>
+<p>or <tt>2.5</tt>.
+</p>

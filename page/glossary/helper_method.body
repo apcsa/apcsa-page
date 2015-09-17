@@ -1,0 +1,6 @@
+<p>A helper method is any method that helps another method solve a problem.  
+Helper methods can (and should) be used to make your code easier to read, to 
+help write code that is easy to reuse, and to 
+make each of your methods smaller and more manageable.
+</p>
+ 

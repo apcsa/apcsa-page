@@ -1,0 +1,19 @@
+<p>
+Methods in java can return values or just perform an operation and return nothing. <tt>void</tt> is used as the return type for a method that doesn't return a value.
+<br/><br/>
+Example:
+<pre>
+			public <u>void</u> calculateAverage()
+			{
+				//no values returned
+			}
+			</pre>
+
+			as opposed to
+		<pre>
+			public <u>double</u> calculateAverage(double num1, double num2)
+			{	
+				return num1/num2;
+			}
+		</pre>
+</p>

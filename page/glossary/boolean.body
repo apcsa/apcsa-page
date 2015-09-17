@@ -1,0 +1,4 @@
+<p>
+A Java type that represents yes-or-no values.
+There are two boolean constants: <tt>true</tt> and <tt>false</tt>.
+</p>

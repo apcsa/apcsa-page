@@ -1,0 +1,3 @@
+<p>The process of a method calling itself. 
+   A method that contains a call to itself is said to be <i>recursive</i>. 
+   See also <a href="glossary.php?term=recursive_case">recursive case</a>&nbsp;and <a href="glossary.php?term=base_case">base case</a>.</p>

@@ -1,0 +1,6 @@
+<p>
+In Java, to turn human readable source code (in 
+a file with the extension <tt>.java</tt>) into <a href="glossary.php?term=object_code">object code</a>
+(a file with the extension <tt>.class</tt>) that the Java interpreter
+can execute.
+</p>

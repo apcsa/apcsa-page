@@ -1,0 +1,7 @@
+<p>
+A unit of text&mdash;basically, a letter, a digit, or anything else one
+can type on a keyboard.
+Represented in Java by the <tt>char</tt> type.
+<a href="glossary.php?term=string">Strings</a> are sequences
+of characters.
+</p>

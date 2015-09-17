@@ -1,0 +1,25 @@
+<p>The object bench is available in the <span class="vocab" term="bluej">BlueJ 
+development environment</span>, at the lower left of the main BlueJ project 
+window.  
+
+<img src="help/object_bench.jpg" alt="The main project window in the BlueJ 
+development 
+environment, opened to a Virtual Pet peoject.  The object bench is in the lower 
+left corner" /> 
+
+<p>The object bench holds representations of objects that the BlueJ user can 
+create from classes that have compiled successfully.  These representations are 
+red rectangles in the object bench.  The object representations contain the name 
+of the object and the class from which it was instantiated.
+
+<img src="help/object_bench_with_object.jpg" alt="The main project window in the 
+BlueJ development
+environment, opened to a Virtual Pet project.  The object bench contains an 
+object instance of the VirtualPet class, named 'jo'." />
+
+<p>By right-clicking (control-clicking on a Macintosh) on the object in the object 
+bench, 
+you can look at the available methods, 
+<a href="help.php?topic=invoking%20behaviors">invoke public methods</a> on that 
+object, 
+and <a href="help.php?topic=inspecting an object">inspect its state</a>.

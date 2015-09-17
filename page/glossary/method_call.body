@@ -1,0 +1,11 @@
+<p>
+
+A method is often coded so that it can be started (called) several times 
+and/or from several places during a single execution of the program, 
+including from other subroutines, and branch back (return) to the point 
+after the call once its task is done.
+</p>
+<p>
+The main component of a method is its body, the piece of program that is 
+executed when the method is called, and defines its effect.
+</p>

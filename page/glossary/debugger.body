@@ -1,0 +1,6 @@
+<p>
+   A debugger is a tool to aid in the finding of bugs, or errors.
+   Most programming environments include debuggers.  The BlueJ 
+   debugger is available via the <tt>Show Debugger</tt> menu item,
+   in the <tt>View</tt> menu.
+</p>

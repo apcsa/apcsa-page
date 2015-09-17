@@ -1,0 +1,86 @@
+<p>
+Here is a summary of the commonly used <tt>String</tt> methods.  This is not a complete list.  For additional 
+methods and descriptions go <a href=http://download.oracle.com/javase/1.4.2/docs/api/java/lang/String.html>here</a>. 
+<br><br>
+Assume <i>s</i> has been declared as a <tt>String</tt>.
+
+<div style="margin-left: 50px;">
+<pre>
+  s.length();
+  
+  Returns an <tt>int</tt> that is the number of characters in the <tt>String</tt>.  The
+  length will always be one greater the the last index of the <tt>String</tt>.  
+  For example, <tt>"java".length()</tt> would return 4.
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.substring(int index);
+  
+  Returns a <tt>String</tt> that is a substring of <i>s</i> beginning at <i>index</i> and going to the 
+  the last index of <i>s</i>.  For example, <tt>"java".substring(1)</tt> would return "ava".
+ 
+</pre></div>  
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.substring(int beginIndex, int endIndex);
+  
+  Returns a <tt>String</tt> that is a substring of <i>s</i> beginning at <i>beginIndex</i> and going 
+  to <i>endIndex</i> minus 1.  For example, <tt>"java".substring(2,3)</tt> would return "v".
+
+ 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.indexOf(String str);
+  
+  Returns an <tt>int</tt> that is the index within <i>s</i> of the first occurrence of the 
+  specified substring <i>str</i>.  For example, <tt>"alfalfa".indexOf("fa")</tt> would 
+  return 5. 
+
+ 
+</pre></div>  
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.equals(String anotherString);
+  
+  Returns a <tt>boolean</tt>.  It returns true if <i>anotherString</i> is not null and 
+  represents the same sequence of characters as <i>s</i>.  Otherwise, it returns false.  
+  For example, <tt>"java".equals("java")</tt> would return true and <tt>"java".equals("coffee")</tt> 
+  would return false.
+
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.toUpperCase();
+  
+  Returns a <tt>String</tt> that is the same as <i>s</i> except all characters are in upper case.
+  For example, <tt>"java".toUpperCase()</tt> returns "JAVA".  Note: To actually change 
+  String <i>s</i> to all upper case, you would need to do this:
+  
+       <tt>s = s.toUpperCase();</tt>
+ 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.toLowerCase();
+  
+  This method words the same as toUpperCase() except it returns a String 
+  that is all lower case.
+ 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  s.trim();
+  
+  Returns a <tt>String</tt> that is the same as <i>s</i> except that white space has
+  been removed from both ends.
+ 
+</pre></div>
+

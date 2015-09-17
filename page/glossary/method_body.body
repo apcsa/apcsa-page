@@ -1,0 +1,7 @@
+<p>The statements that comprise a 
+<a href="glossary.php?term=method">method</a>. 
+   In a method definition, these 
+   come directly after the <a href="glossary.php?term=method_header">method header</a>, and are 
+   surrounded by braces. </p>
+<p>The statements in a method body 
+are executed in order.</p>

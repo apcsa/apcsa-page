@@ -1,0 +1,20 @@
+<p>
+   Binary search is a technique for locating a value of interest&mdash;a <i>target</i>&mdash;in 
+   a sorted set of values.  Because 
+   the set of values must be sorted, only certain values can be 
+   searched in this manner (i.e., numbers work, but colors won't). 
+</p>
+<p>
+   In binary search,
+   the "middle" of the set of values is compared with the target.  
+   If the value of interest is less than the middle value,
+   then the possible set of values becomes the bottom half of the 
+   original set of values.  Similarly, if the target is
+   larger than the middle value, the possible set of values becomes
+   the upper half of the original set of values.  
+</p>
+<p>
+   With the reduced (by half) set of values, another middle value is 
+   determined and compared with the target.  This repeats until the 
+   target is determined.
+</p>

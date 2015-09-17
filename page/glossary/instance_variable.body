@@ -1,0 +1,6 @@
+<p>An instance variable is a location for storing data.  An instance variable is contained
+within objects (and can be compared to a <em>class variable</em>, which is 
+contained inside classes).  An instance variable has a name, which any method 
+available to that object can use to refer to the variable, and a type, which 
+defines the type of data that the variable can store.
+</p>

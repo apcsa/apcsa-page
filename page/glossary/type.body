@@ -1,0 +1,7 @@
+<p>
+A term describing the range of values that a variable may take on
+or a method may return.
+Java has two kinds of types: <i>primitive</i> types, for example,
+<tt>int</tt>, <tt>boolean</tt>, <tt>char</tt>, and <tt>double</tt>;
+and <i>reference types</i>, namely <a href="glossary.php?term=class">classes</a>.
+</p>

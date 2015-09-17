@@ -1,0 +1,7 @@
+<p>
+A variable declared inside a method.
+Variables can be declared immediately after a left brace;
+the <a href="glossary.php?term=scope">scope</a> of these variables
+extends to the matching right brace.
+Contrast <a href="glossary.php?term=instance_variable">instance variable</a>.
+</p>
