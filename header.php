@@ -11,7 +11,7 @@
 
 <title> <?php echo $pagetitle; ?> </title>
 
-<link href="../css/resourcepage.css" media="screen" rel="stylesheet"  
+<link href="static/css/resourcepage.css" media="screen" rel="stylesheet"  
 type="text/css" />
 
 </head>
