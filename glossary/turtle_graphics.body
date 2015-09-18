@@ -1,0 +1,11 @@
+<p> 
+Turtle graphics are a method of generating line-based pictures through the 
+manipulation of a cursor, called the turtle.  The turtle has three attributes
+</p>
+<ol>
+<li>
+a position in a two-dimensional grid
+</li>
+<li>an direction that it is pointing, and</li>
+<li>a pen (which may be up or down, a certain color, a certain thickness, etc).</li></ol>
+

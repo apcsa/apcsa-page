@@ -1,0 +1,5 @@
+<p> 
+The <tt>ArrayList</tt> class is part of the Java API, and is available to programs that you write.
+An instance of the <tt>ArrayList</tt> class can store a sequence of primitive types or objects, and provides
+methods for adding and removing elements.
+</p>

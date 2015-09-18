@@ -1,0 +1,4 @@
+<p> 
+A callback method a programmer writes that is that is called by a method from a pre-written class.  
+Many prewritten classes are designed in such that their exact functioning depends on a callback methods.  
+</p>

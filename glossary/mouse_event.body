@@ -1,0 +1,20 @@
+<p>
+   A mouse event is a specific type of <a href="glossary.php?term=event">event</a>
+   in which mouse actions, performed by the user, trigger the event.
+   Particular mouse events include
+</p>
+<ul>
+   <li>
+      a mouse button being pressed down
+   </li>
+   <li>
+      a mouse button being released, which can obviously only be 
+      triggered after a mouse button pressed event
+   </li>
+   <li>
+      a mouse click, which is triggered when a mouse button is pressed 
+      and released without it moving in between.
+   </li>
+   <li>a mouse move, triggered when the mouse position has changed
+   </li>
+</ul>

@@ -1,0 +1,8 @@
+<p>
+   A flow chart is a type of diagram used to indicate how a program
+   or program segment functions.  It consists of nodes connected by
+   arrows.  Nodes are labeled, and can be of different types, such
+   as decision nodes that have more than a single arrow leaving them,
+   termination nodes which have no arrows leaving them and indicate
+   that the program has stopped, and so forth.
+</p>

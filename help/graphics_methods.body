@@ -1,0 +1,75 @@
+<p>
+Here is a summary of the <tt>java.awt.Graphics</tt> methods that you may want to refer to while working on programs
+that involve graphics.  This is not a complete list.  For additional methods and descriptions go 
+<a href=http://download.oracle.com/javase/1.4.2/docs/api/java/awt/Graphics.html>here</a>. 
+<br><br>
+Assume <i>g</i> is a Graphics object.  For all these methods, <i>(x,y)</i> is the upper left corner of a
+bounding box and <i>w</i> and <i>h</i> are the width and height of that bounding box.  Any other variables will be
+defined for you. The color of the object is the current color, which may be obtained by using 
+<tt>g.getColor()</tt>.  All parameters for the methods are <tt>int</tt> unless otherwise specified.      
+</p>
+
+<div style="margin-left: 50px;">
+<pre>
+  g.drawRect(x, y, w, h);  // (x,y) is upper left corner 
+  
+  Draws a rectangle that has a width of <i>w</i> and height of <i>h</i> and its 
+  upper left corner is located at <i>(x,y)</i>
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.fillRect(x, y, width, height);
+  
+  Same as <tt>g.drawRect(x,y,w,h)</tt> except the current color is used to fill the 
+  rectangle instead of outline the rectangle.
+ 
+</pre></div>  
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.drawOval(x, y, width, height);
+  
+  Draws an oval that is contained within a bounding box that has a width of 
+  <i>w</i> and height of <i>h</i> and its upper left corner is located at <i>(x,y)</i> 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.fillOval(x, y, width, height);
+  
+  Same as <tt>g.drawOval(x,y,w,h)</tt> except the current color is used to fill the 
+  oval instead of outline the oval. 
+</pre></div>  
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.drawLine(x1, y1, x2, y2);
+  
+  Draws a line starting at point <i>(x1,y1)</i> and ending at point <i>(x2,y2)</i>. 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.drawString(String s, x1, y1);
+  
+  Draws a String <i>s</i> with the left base at <i>(x1,y1)</i>
+ 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.setColor(Color c);
+  
+  All drawing after this uses the Color <i>c</i>.
+ 
+</pre></div>
+<br>
+<div style="margin-left: 50px;">
+<pre>
+  g.setFont(Font f);
+  
+  All drawing after this uses the Font <i>f</i>.
+ 
+</pre></div>
+<br>

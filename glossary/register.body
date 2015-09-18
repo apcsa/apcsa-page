@@ -1,0 +1,5 @@
+<p>
+   In Java, a class registers for 
+   <a href="glossary.php?term=event">events</a> by 
+   implementing an <a href="glossary.php?term=interface">interface</a>.
+</p>

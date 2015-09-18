@@ -1,7 +1,0 @@
-<p>
-  Black-box testing is a set of testing principles that assume the
-   tester is unable look at the 
-   <a href="glossary.php?term=source_code">source code</a> 
-   to be tested.  This often arises when testing code written by
-   someone else, such as a private corporation.
-</p>

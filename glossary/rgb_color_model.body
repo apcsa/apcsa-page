@@ -1,0 +1,8 @@
+<p> 
+The RGB color model, or the Red-Green-Blue color model is a method of representing all colors as different intensities
+of red, green, and blue colors.  For instance, the color blue can be represented as 
+full intensity of blue and zero intensity of both red and green.  Intensities are commonly, but not always, represented
+as integers between 0 and 255.
+Black would be represented as no red, no green, and no blue, while white would be represented as full intensity of
+each of red, green, and blue.
+</p>

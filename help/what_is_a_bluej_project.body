@@ -1,0 +1,17 @@
+<p>
+A BlueJ project is a collection of Java classes and resources (a Java program) and associated BlueJ settings (e.g., how you want your BlueJ windows arranged).</p>
+
+<p>A BlueJ project resides as a folder on your local computer.  Double-clicking the <tt>.pkg</tt> file contained
+in the folder will open the project in BlueJ. 
+</p>
+
+<p>
+The fact that the project is on your local computer means that changes you make 
+to the project can only by seen by you, unless you take effort to share the project with others.  
+</p>
+
+<ul class="related">
+	<li><a href="help.php?topic=starting_bluej">Starting Bluej</a></li>
+	<li><a href="help.php?topic=opening_bluej_project">Opening a BlueJ project</a></li>
+	<li><a href="help.php?topic=sharing_bluej_projects">Sharing BlueJ projects</a></li>
+	</ul>

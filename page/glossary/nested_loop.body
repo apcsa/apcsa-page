@@ -1,5 +1,0 @@
-<p>
-A nested loop occurs when one <a href="glossary.php?term=loop">loop</a>
-is within the <a href="glossary.php?term=loop_body">body</a> of another loop.  
-The two loops are often referred to as the <i>inside</i> loop and the 
-<i>outside</i> loop.  </p>

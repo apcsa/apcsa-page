@@ -1,5 +1,0 @@
-<p> 
-The merge sort algorithm is a recursive sorting algorithm that can be quite efficient.  In the merge sort process, the set to be sorted 
-is broken into separate sets, each of which are sorted (recursively).  Then, the two already sorted sets are merged together with a single pass through
-each.  
-</p>

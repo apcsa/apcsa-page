@@ -1,5 +1,0 @@
-<p> 
-State is the current environment of a computer program, and determines exactly what that 
-program will do next.  Therefore, the current values of all the variables in a program and
-the particular statement that is to be executed next are necessary parts of that program's state.
-</p>

@@ -1,8 +1,0 @@
-<p> 
-In digital audio recordings, normalization is the process of making the sound as loud as possible
-while still keeping the full range of volume.  This is done by setting  the loudest value
-in the recording to the loudest value possible, and correspondingly increasing all the 
-other values so that they keep the same ratio between silence and the loudest sound as they
-did before normalization.
-</p>
-

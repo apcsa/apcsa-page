@@ -1,0 +1,5 @@
+<p> 
+A threshold value is used to turn numbers with a large range, or set of possible values, into numbers with only
+two possible values, commonly <tt>0</tt> and <tt>1</tt>.  The threshold value is the value below which other values are set to <tt>0</tt>,
+and above or equal to which other values are set to <tt>1</tt>.
+</p>

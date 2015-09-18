@@ -1,6 +1,0 @@
-<p> 
-A <i>reference type</i> is a variable type that does refer to an instance of an object.
-<tt>String</tt> and <tt>JFrame</tt> are examples of reference types.
-</p>
-
-<p>Also see the glossary entry for <a href="glossary.php?term=primitive_type">primitive type</a>.</p>

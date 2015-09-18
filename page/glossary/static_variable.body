@@ -1,9 +1,0 @@
-<p> 
-A static variable is one that is available to all instances in that class within which it is defined.  If one instance of the
-class changes the variable, then all the other instances will also see the new value.</p>
-<p>
-Static variables include the keyword <tt>static</tt> in front of them.  In this course, we will focus on static instance variables, 
-rather than static variables inside methods (this later form is legal Java, and creates a method variable that any instance can 
-get at from within that method).</p>
-
-<!--  TODO   yeah, an example would be nice. -->

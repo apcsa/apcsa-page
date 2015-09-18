@@ -1,6 +1,0 @@
-<p> 
-Overriding occurs when a subclass has a method with the same <A href="glossary.php?term=signature">signature</A> as a method in 
-its superclass (or the superclass of its superclass, and so on upwards).
-
-In this situation, the method of the subclass will be invoked, and is <i>overriding</i> the method in the superclass(es).
-</p>

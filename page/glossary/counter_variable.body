@@ -1,7 +1,0 @@
-<p>
-   A counter variable is a variable used by a program to count something.
-   A typical use of a counter variable is with a 
-   <a href="glossary.php?term=while">while</a> loop in order to 
-   loop a certain number of times, in which case the counter variable
-   keeps track of how many times the loop has occurred. 
-</p>

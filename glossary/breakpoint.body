@@ -1,0 +1,10 @@
+<p>
+   A breakpoint is used in a debugger to stop execution of a 
+   program at a specific line.  Most development environments,
+   including BlueJ, 
+   allow breakpoints to be set in the editor, and will show the 
+   debugger when the breakpoint is reached during execution.
+   In BlueJ,
+   clicking on the line number at the left of the editor window 
+   sets a breakpoint for that line.
+</p>

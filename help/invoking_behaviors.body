@@ -1,0 +1,10 @@
+<p>To invoke a method (behavior) for an object instance, you have to first make an object and have it in 
+the BlueJ object bench.  Then, right-click on the object in the object bench; the context menu will
+list all of the object's available methods, excluding <tt>private</tt> methods.
+If the method takes parameters, BlueJ will present a dialog box in which you can set them.</p>
+
+<p>
+See the glossary entry for <a href="help.php?topic=object_bench">object bench</a>.
+</p>
+ 
+

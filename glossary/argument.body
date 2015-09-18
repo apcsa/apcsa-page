@@ -1,0 +1,11 @@
+<p>
+Data that is given to a method when it is called,
+and then copied into the corresponding 
+<a href="glossary.php?term=parameter">parameter</a>.
+(A parameter is a place holder; the corresponding argument is what
+it's holding a place for.)
+Methods can be written to accept 
+any number of arguments, each of which has a name and a type.
+Arguments allow methods to do different things
+depending on what arguments they are given when called.
+</p>

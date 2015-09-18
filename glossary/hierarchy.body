@@ -1,0 +1,6 @@
+<p> 
+A hierarchy is an arrangment of elements in which some elements are linked, or related, to other elements as either
+above or below them.  Java classes form a hierarchy with <a href="glossary.php?term=superclass">superclasses</a>
+and <a href="glossary.php?term=subclass">subclasses</a> related to eachother through inheritance.  In a Java class hierarchy, 
+each subclass can have a single superclass that it is related to.
+</p>

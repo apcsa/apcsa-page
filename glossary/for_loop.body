@@ -1,0 +1,5 @@
+<p> 
+A for loop is a type of <a href="glossary.php?term=loop">loop</a> that uses a particular definition involving
+the keyword <tt>for</tt>.  A for loop has three specifications: any initializations, a test for breaking out of the loop, and 
+a statement that is run when completeing a single pass through the loop body statements.
+</p>

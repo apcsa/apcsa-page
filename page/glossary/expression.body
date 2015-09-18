@@ -1,7 +1,0 @@
-<p>
-
-A combination of values, <a href="glossary.php?term=variable">variables</a>, operators, and functions 
-that are interpreted (evaluated) according to the particular rules of precedence and of association
- for a particular programming language, which computes and then produces 
- (returns, in a stateful environment) another value. The expression is said to evaluate to that value.
-</p>

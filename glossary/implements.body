@@ -1,0 +1,6 @@
+<p>
+   The keyword <tt>implements</tt> is used in the
+   <a href="glossary.php?term=class_header">class header</a>
+   to specify an <a href="glossary.php?term=interface">interface</a>
+   for a class.
+</p>

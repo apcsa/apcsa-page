@@ -1,9 +1,0 @@
-<p>A <b>tester class</b> is a Java class whose sole purpose is to test another
-class or classes.   Commonly, a tester class will </p>
-<ul>
-<li>first create an instance or instances of 
-class(es) to be tested,</li> 
-<li>then repeatedly set up state and call methods on the instances, comparing the 
-results with known correct results, and</li>
-<li>finally, report whether the class(es) to be tested passed or failed the tests.</li>
-</ul>

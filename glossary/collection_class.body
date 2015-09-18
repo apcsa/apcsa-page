@@ -1,0 +1,17 @@
+<p>A collection class is a Java class that contains and provides
+access to a set of similar elements. These elements may be Java
+objects&mdash;for instance, a collection of <tt>String</tt>
+instances&mdash;or other Java types&mdash;for instance, a collection
+of integers.</p>
+
+<p>In this course, you will learn about</p>
+<ul>
+<li>
+the <tt>ArrayList</tt> class, which stores an ordered set of elements
+and lets you access elements by their index (position) in the set.</li>
+<li><tt>arrays</tt>, which store an ordered list of non-Java-objects and
+use special syntax in the Java source to provide access to elements.  Arrays are 
+not a Java class.
+</li></ul>
+<p>Other common collection classes include <tt>HashMap</tt>s and <tt>List</tt>s.
+</p>

@@ -1,0 +1,5 @@
+<p> 
+Polymorphism is the feature of Java classes in which instances of one class can be used as, or considered 
+as members of, an instance of another class.  Specifically, an instance of a class can be considered an instance 
+of that classes superclass (parent), or the superclasses superclass (grandparent), and so forth.  
+</p>

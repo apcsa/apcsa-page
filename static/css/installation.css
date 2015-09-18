@@ -1,0 +1,333 @@
+@charset "utf-8";
+
+/* CSS Document */
+body {
+	font: 16px/ 1.7 Georgia, "Times New Roman", Times, serif;
+	background: url(../art/graphics/surrounding_bg3.png);
+	padding: 0;
+	margin: 30px 0 15px 0;
+	width: 100%;
+}
+
+h1,h2,p {
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	margin: .5em 0 1em 0;
+}
+
+*+p {
+	margin: .7em 0 0 0;
+}
+
+h3 {
+	font-size: 1.0em;
+}
+
+p {
+   padding: 0 10px 0 10px;
+   }
+
+#body_wrap {
+	background: #6883BA;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	width: 875px;
+	height: 510px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#body_wrap a:hover {
+	background-color: #FFFF00;
+	color: #000033;
+}
+
+#login_screen #content {
+	background: #fff;
+	padding: 45px 350px 45px 35px;
+	width: 490px;
+	margin-right: -340px;
+	height: 420px;
+	float: left;
+	clear: left;
+}
+
+#login_screen #content h1 {
+	font: 39px Tahoma, Geneva, sans-serif;
+	background: url(../art/graphics/title_graphic_nobox.gif) no-repeat
+		top left;
+}
+
+#login_screen #bot_box {
+	margin-top: 5px;
+	background: url(../art/graphics/bot_box_bigger.gif) no-repeat;
+}
+
+#login_screen form {
+	background: url(../art/graphics/bug_login_anim.gif);
+}
+
+label {
+	color: transparent;
+}
+
+input[type=text],input[type=password] {
+	font: 20px Georgia, "Times New Roman", Times, serif;
+	border-width: 0;
+	/*border:1px solid #999;*/
+	background: none;
+}
+
+input[type=text]:hover,input[type=password]:hover,textarea:hover {
+	background: rgba(255, 255, 140, .3);
+}
+
+input[type=text]:focus,input[type=password]:focus,textarea:focus {
+	background: rgba(255, 255, 140, .7);
+}
+
+input[type=submit] {
+	color: transparent;
+	background: none;
+}
+
+input[type=submit]:hover,input[type=submit]:focus,input[type=submit]:active
+	{
+	background: url(../art/graphics/submit_active.png);
+}
+
+#subfooter {
+	color: #999;
+	font: 11px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#subfooter a {
+	color: inherit;
+}
+
+#subfooter a:hover {
+	color: #FFFF00;
+}
+
+#login_screen #content>h1 {
+	padding: 0 0 120px 90px;
+	margin: 0 0 -120px -30px;
+}
+
+#login_screen #content>h1+p {
+	font-style: normal;
+	padding-left: 62px;
+	padding-right: 15px;
+	color: #666666;
+	line-height: 150%;
+}
+
+#login_screen #content p.second {
+	font-style: italic;
+	font-size: .8em;
+	padding-left: 62px;
+	padding-right: 10px;
+	color: #666666;
+}
+
+#login_screen #content p.begin {
+	font-size: .9em;
+	padding-left: 5px;
+	color: #333;
+	line-height: 1.4em;
+}
+
+#login_screen #bot_box {
+	padding: 53px 10px 10px 10px;
+	width: 470px;
+	height: 264px;
+}
+
+#login_screen form {
+	width: 250px;
+	padding: 115px 55px 25px 25px;
+	margin: 20px -5px 0 0;
+	height: 280px;
+	float: right;
+}
+
+label {
+	display: block;
+	width: 95px;
+	margin: 5px 0;
+	padding: 0;
+	float: left;
+	height: 21px;
+	clear: both;
+}
+
+input[type=text],input[type=password] {
+	height: 32px;
+	width: 210px;
+	padding: 1px 8px;
+	margin: 15px 12px 6px 12px;
+}
+
+input[type=checkbox] {
+	margin-top: 10px;
+	clear: left;
+}
+
+input[type=checkbox]+label {
+	display: inline;
+	float: none;
+	width: auto;
+}
+
+input[type=submit] {
+	padding: 0;
+	margin: 30px 0 0 0;
+	height: 60px;
+	width: 140px;
+	float: right;
+	border-width: 0px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#subfooter {
+	width: 100%;
+	text-align: center;
+	margin: 3px 0 -15px 0;
+}
+
+/* STYLING FOR INDEX PAGE FOR NON-MOODLE COURSE */
+
+#login_screen #login_form2 {
+	background: url(../art/graphics/bug_login_anim2.gif);
+	width: 250px;
+	padding: 115px 55px 25px 25px;
+	margin: 20px -5px 0 0;
+	height: 280px;
+	float: right;
+}
+
+#login_screen #login_form2 a {
+	padding: 5px;
+	position:relative;
+	top: 235px;
+	left:110px;
+	border-width: 0px;
+	font-size:1.6em;
+	font-style:italic;
+	color:#000;
+	letter-spacing:1.2px;
+	text-decoration:none;
+	border:1px solid transparent;
+}
+
+#login_screen #login_form2 a:hover {
+	background-color:#FFFF00;
+	border: 1px solid #666;
+} 
+
+
+/* STYLING FOR THE INSTALLATION GUIDE & VLE ABOUT PAGE */
+
+#installGuide {
+	background-image: url(../art/graphics/surrounding_bg3.png);
+	background-repeat: repeat;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: normal;
+}
+
+#installContentBox {
+	background-image: url(../art/graphics/BackgroundBlue600.png);
+	background-position: top left;
+	background-repeat: repeat-x;
+	background-color: #FFF;
+	margin: 30px;
+	-moz-border-radius-topleft: 8px;
+	-moz-border-radius-topright: 8px;
+	-moz-border-radius-bottomleft: 8px;
+	-moz-border-radius-bottomright: 8px;
+	padding: 10px 3px 30px 3px;
+}
+
+#contentBoxScrollArea {
+	overflow-y: auto;
+}
+
+#installContentBox h2 {
+	font-size: 1.8em;
+	font-weight: normal;
+	width: 90%;
+	border-bottom: 1px dotted #999;
+	padding-bottom: 4px;
+	margin: 10px 0 10px 30px;
+}
+
+#installContentBox h4 {
+	font-size: 90%;
+	letter-spacing: .5px;
+	background-color: #666;
+	color: #ccc;
+	width: 90%;
+	margin: 20px 0 10px 30px;
+	padding: 2px 6px;
+	-moz-border-radius: 4px;
+}
+
+#installContentBox ol {
+	margin: 10px 30px 3px 60px;
+	line-height: 100%;
+}
+
+#installContentBox li {
+	font-size: .9em;;
+	margin-bottom: 5px;
+}
+
+#installContentBox ol ul {
+	margin-left: 25px;
+	list-style-type: circle;
+}
+
+#installContentBox ul {
+	margin: 15px 45px 0 45px;
+}
+
+
+#InfoBoxClose {
+	text-align: center;
+	margin: 30px auto;
+}
+
+#InfoBoxClose a {
+	display: block;
+	margin: 0 auto;
+	width: 9em;
+	padding: 5px 0;
+	font: bold 100% Verdana, Arial, sans-serif;
+	text-transform: uppercase;
+	background: #6883BA;
+	color: #333;
+	text-decoration: none;
+	text-align: center;
+	-moz-border-radius-topleft: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	-moz-border-radius-bottomright: 4px;
+}
+
+#InfoBoxClose a:hover {
+	background: #FFFF00;
+	color: #333
+}
+
+.imageCenter {
+	text-align:center;
+	margin:0 auto;
+	}
+   
+

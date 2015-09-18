@@ -1,0 +1,9 @@
+<p> 
+An abstract class is one which cannot be instantiated, but rather serves as a template for subclasses 
+to inherit from.  The keyword <tt>abstract</tt> is used to declare a class as abstract.
+</p>
+
+<p>
+An abstract class can contain instance variables and methods like a non-abstract class, but can also contain 
+<A href="glossary.php?term=abstract_method">abstract methods</A>, which will need to be <A href="glossary.php?term=overriding">overridden</A> in its subclasses.
+</p>

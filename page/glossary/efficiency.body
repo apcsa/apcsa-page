@@ -1,6 +1,0 @@
-<p> 
-Efficiency is a measure of how many resources, such a time or memory, a program needs.  
-Generally, there is more than one way to write a program to solve a particular problem, and one way 
-to compare programs that generate the same answers for the same inputs is efficiency.  A more 
-efficient program will generate its answers faster, or without requiring as many state information, or both.  
-</p>

@@ -1,0 +1,7 @@
+<p>
+   The keyword <tt>extends</tt> is used in the
+   <a href="glossary.php?term=class_header">class header</a>
+   to specify a parent class for the current class.  
+   See the glossary term 
+   <a href="glossary.php?term=inheritance">inheritance</a>.
+</p>

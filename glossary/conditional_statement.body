@@ -1,0 +1,17 @@
+<p>
+Executed by evaluating the 
+<a href="glossary.php?term=boolean">boolean</a>
+<a href="glossary.php?term=expression">expression</a>
+that immediately follows the word "if"; if the resulting value is <tt>true</tt>, the statements in the body
+of the <tt>then</tt> are executed, otherwise the statements in the body
+of the <tt>else</tt> are executed.<br/><br/>
+There are a number of ways to write conditional statements:<br/>
+
+</p>
+<ul>
+<li>Single-line if statement with no braces:<br/><tt>&nbsp;&nbsp;&nbsp;if(comparison)</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute the statement on this line</tt></li><br/>
+<li>Single-line if-else statement with no braces:<br/><tt>&nbsp;&nbsp;&nbsp;if(comparison)</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute the statement on this line<br/>&nbsp;&nbsp;&nbsp;else<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute the statement on this line</tt></li><br/>
+<li>Multiple-line if statement (always need braces):<br/><tt>&nbsp;&nbsp;&nbsp;if(comparison){<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line #1: execute the statement<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line #2: execute the statement<br/>&nbsp;&nbsp;&nbsp;}</tt></li><br/>
+<li>Multiple-line if-else statement (always need braces):<br/><tt>&nbsp;&nbsp;&nbsp;if(comparison){<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line #1: execute the statement<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line #2: execute the statement<br/>&nbsp;&nbsp;&nbsp;} else {<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line #1: execute the statement<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line #2: execute the statement<br/>&nbsp;&nbsp;&nbsp;}</tt></li>
+<li>Tertiary statement:<br/><tt>&nbsp;&nbsp;&nbsp;(comparison) ? evaluate if comparison is true : evaluate if comparison is false;</li>
+</ul>

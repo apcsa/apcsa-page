@@ -1,0 +1,6 @@
+<p> 
+Development is the process of writing computer programs, and there a many different styles (or methods, or workflows)
+of development that programmers follow.  
+
+In test-driven development, tests are written before the program, ensuring that in all stages of development of 
+the program, it can always be checked for correctness in an automated fashion.</p>

@@ -1,0 +1,5 @@
+<p> 
+Documentation for a program tells someone (such as a user or other programmer) how the program works.
+Documentation can exist outside of a program as a text file, or can exist inside the program
+as <a href="glossary.php?term=comments">comments</a>.
+</p>

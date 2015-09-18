@@ -1,6 +1,0 @@
-<p> 
-A parent class is a Java class that at least one other class inherits from.  The 
-class that inherits from the parent is called a 
-<A href="glossary.php?term=child">child</A>.  
-</p>
-<p>See the glossary entry for <A href="glossary.php?term=inheritance">inheritance</A>.</p>

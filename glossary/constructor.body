@@ -1,0 +1,19 @@
+<p>
+A special method associated with a particular class, called
+each time an object is created(instantiated) from the class. 
+The constructor is most commonly used to set the initial state of the object.
+A constructor has no return type because it never returns anything.
+A class may have more than one constructor;
+any two constructors, however, must have a different number of parameters
+or, if they have the same number of parameters, the parameters types must be in a different order.
+
+Examples:
+     <ul>
+     	<li>No-parameter Constructor: public VirutalPet() { ... }</li>
+     	<li>One-parameter Constructor: public VirutalPet(String name) { ... }</li>
+     	<li>Two-parameter Constructor : public VirutalPet(String name, int numLegs) { ... }</li>
+     	<li>Two-parameter Constructor(Not Legal): public VirutalPet(String firstName, int numArms) { ... }</li></li>
+     	<li>Two-parameter Constructor(Legal): public VirutalPet(int numArms, String firstName) { ... }</li></li>
+     </ul>
+Why do you think it is illegal to have two constructors that have the same number of parameters with the types in the same order?
+</p>

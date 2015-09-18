@@ -1,5 +1,0 @@
-<p> 
-An infinite loop occurs when a <A href="glossary.php?term=loop">loop</A> never terminates inside
-a running program.  This is most often an error, but is sometimes used to repeat actions until the
-user stops the program by some means outside of the program itself (for instance, by turning off the computer!).
-</p>

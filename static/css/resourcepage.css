@@ -1,0 +1,381 @@
+/**
+ * Copyright (c) 2006 Encore Research Group, University of Toronto
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+  
+/* THESE STYLES ARE USED GLOBALLY WITHIN ALL UCCP PROJECTS  */	
+
+* {padding:0px; margin:0px;}
+
+img {border:0px;}
+
+body {
+	/* font-family: "Lucida Grande", "Lucida San Unicode", "Gill Sans", Helvetica, Arial;	*/
+	font-family: "Times New Roman", Times, serif;
+	font-family: Tahoma, Geneva, serif;
+	font-size: 100%;
+	text-align: left;
+	padding: 5px 0;
+	background-image:url(../art/graphics/surrounding_bg3.png);
+}
+
+#centeredDiv {
+	background-color:#FFF;
+	width: 980px;
+	text-align:left;
+	margin: 0 auto;  
+	border:2px solid #000066;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	min-height:530px;	
+	}
+	
+p {
+	font:1em "Times New Roman", Times, serif;
+	padding:10px
+	line-height:120%;
+	vertical-align: bottom;
+	}
+
+tt {
+	font-size:120%;
+	font-weight:580;
+	line-height:100%;
+}
+
+.openbluejproj {
+	width:500px;
+	margin: 5px 10px 10px 45px;
+	padding:0 8px;
+	text-align:center;
+	font-size:.9em;
+	background-image:url(../art/graphics/bluej_background.png);
+	background-repeat:no-repeat;
+	color:#003300;
+	border:1px solid #666;
+	font-family: Helvetica, Arial;
+	font-weight:normal;
+	-moz-border-radius:4px;
+		}
+
+.openbluejproj p {
+	padding:15px 0;
+		}
+	
+
+.indexBar {
+	text-align:center;
+	}
+	
+.indexBar em {
+	margin:15px 0;
+	color:#FF0000;
+	}
+	
+#navBar {
+	margin:10px 0 10px 30px;
+	font-size:.8em;
+	text-align:left;
+	color:#333;
+	}
+	
+#navBar a:visited, #navBar a:link {
+	color:blue;
+	padding:5px 7px;
+	text-decoration:none;
+	}
+	
+#navBar a:hover {
+	background-color:#FFFF00;
+	color:#333;
+	padding:5px 7px;
+	text-decoration:underline;
+	}
+		
+#glossaryHeader{
+	position:relative;
+	color:#333333;
+	font-weight:bold;
+	background-color:#FFE6C6;
+	margin:5px 10px;
+	padding:5px 10px;
+	border:1px solid #666666;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+		}
+
+#helpHeader{
+	position:relative;
+	color:#000099;
+	font-weight:bold;
+	background-color:#FFCE8E;
+	margin:5px;
+	padding:5px 10px;
+	border:1px solid #666666;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+		}
+		
+#glossaryHeader #course, #helpHeader #course {
+	font-size:.8em;
+	font-style:italic;
+	margin: 0;
+	padding:0;
+			}
+		
+#glossaryHeader #title, #helpHeader #title {
+	font-size:2.0em;
+	margin:-5px 0 0 0 ;
+	padding:0;
+    letter-spacing:1.4px;
+	font-variant:small-caps;
+		}
+	
+#glossaryHeader img {
+	position:absolute;
+	right:25px;
+	top:12px;
+		}
+	
+#glossary_index, #help_index {
+	margin-left:30px;
+}
+		
+#glossary_index p, #help_index p {
+	margin:10px 0 10px 20px;
+		}
+      
+#glossary_index h4, #help_index h4 {
+	margin:15px 0 5px 20px;
+		}
+      
+#glossary_index ul, #help_index ul {
+	margin:5px 0 5px 65px;
+		}
+
+#glossary_index li, #help_index li {
+	list-style-type:circle;
+	padding:0 2px 2px 10px;
+	margin-right:10px;
+	font-size:90%;
+		}
+
+#glossary_index li:hover, #help_index li:hover {
+	background-color:#FFFF00;
+	}
+	
+#glossary_index li a, #help_index li a {
+	color:blue;
+		}
+			
+#glossary_index li a:hover, #help_index li a:hover {
+	color:#000;
+		}
+		
+#glossary_index table {
+	border:collapse:collapse;
+	margin:20px 0 0 60px;
+}
+
+#glossary_index table td {
+	text-align:center;
+}
+
+#glossary_index table a {
+	display:block;
+	width:18em;
+	padding:10px 15px;
+	font: bold 90% Verdana,Arial,sans-serif;
+    text-transform:uppercase;
+    background: #FFCE8E;
+    color: #333;
+    text-decoration:none;
+    text-align:center;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:1px solid #999;
+}
+
+#glossary_index table a:hover {
+	background: #FFCC00;
+	color:#164CBA;
+	border:1px solid #000;
+}
+
+#glossary_index table img {
+	margin:0 60px;
+}
+
+#helpHeader img {
+	position:absolute;
+	right:25px;
+	top:16px;
+		}
+		
+.term, .topic {
+	margin: 20px 25px 10px 25px;
+	padding:3px 6px;
+	background-color:#333333;
+	color:#FFF;
+	font-size:1.2em;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	text-align:left;
+	}
+	
+.term em, .topic em {margin-right:20px;}
+
+.definition {
+	margin:25px 150px 15px 40px;
+	padding:0 15px 0 30px;
+	border-left:4px solid #666666;
+	}
+			
+.definition p {
+	font-size:1em;
+	padding:10px 0;
+	}
+	
+.definition ul, .definition ol {
+	margin-left:80px;
+	color:#333333;
+	font-size:.9em;
+	padding:10px;
+	}
+	
+.definition h4 {
+	margin-top:20px;
+	}
+	
+#pageHeader {
+	margin:10px 0 10px 20px;
+	font-size:80%;
+	letter-spacing:1px;
+		}
+
+#pageHeader a {
+	color:blue;
+	padding:2px;
+		}
+	
+#pageHeader a:hover {
+	background-color:#FFFF00;
+	}
+		
+#pageFooter {
+	margin:60px 0 10px 20px;
+	font-size:80%;
+	letter-spacing:1px;
+	}
+
+#pageFooter a {
+	color:blue;
+	padding:2px;
+		}
+	
+#pageFooter a:hover {
+	background-color:#FFFF00;
+	}
+	
+#pageFooter #footerText {
+	font-size:.9em;
+}
+
+#pageFooter #footerText a {
+	color:#666;
+	padding:2px;
+}
+
+#pageFooter #footerText a:hover {
+	background-color:#FFFF00;
+}
+
+
+.fatalError {
+   padding: 20px;
+   font-size: 125%;
+		}
+
+.fatalErrorDetails {
+	padding: 15px;
+	font-size: 75%;
+	}
+
+#closeButton {
+	text-align:center;
+	margin:25px auto;	}
+
+#closeButton a {
+	display:block;
+	margin:0 auto;
+	width:9em;
+	padding:5px 0;
+	font: bold 100% Verdana,Arial,sans-serif;
+    text-transform:uppercase;
+    background: #6883BA;
+    color: #333;
+    text-decoration:none;
+    text-align:center;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:1px solid #999;
+	 }
+    
+#closeButton a:hover{
+	background: #FFCC00;
+	color:#164CBA;
+	border:1px solid #000;
+		}
+		
+		table .pre {
+	line-height: 1em;
+	}
+	
+pre {
+	font:600 .9em "Courier New", Courier, monospace;
+	color:#333;
+	white-space:pre;
+	padding:10px;
+	margin:15px;
+	border-top:2px solid #999;
+	border-right:2px solid #999;
+	border-bottom:2px solid #999;
+	border-left:12px solid #999;
+}
+
+pre.tightText, pre .tightText {
+	letter-spacing:-.8px;
+	}
+
+pre.veryTightText, pre .veryTightText {
+	letter-spacing:-1px;
+	}
+	
+pre.width20 {width:20%;margin-left:75px;}
+pre.width30 {width:30%; margin-left:75px;}
+pre.width40 {width:40%; margin-left:75px;}
+pre.width50 {width:50%; margin-left:75px;}
+pre.width60 {width:60%; margin-left:75px;}
+pre.width70 {width:70%; margin-left:75px;}
+pre.width80 {width:80%; margin-left:75px;}
+		
+		

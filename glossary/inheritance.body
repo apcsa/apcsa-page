@@ -1,0 +1,29 @@
+<p>
+   Inheritance is a feature of object-oriented programming languages, like 
+   Java.  Inheritance specifies a relationship between classes in which 
+   a "child" class gets some of the functionality of a "parent" class.  
+   This relationship works in only one direction: the child class 
+   inherits functionality from the parent class, 
+   but the parent class does not inherit functionality from the child class.
+</p>
+<p>
+   A child class will inherit access to a parent classes's non-private instance
+   variables and methods.
+</p>
+<p>
+   A parent class may itself be a child class to yet another class. 
+   (A parent cannot be a child class to its child, of course!).  
+   Additionally, there can be many child classes with the same parent. 
+   In this way, the classes in a program form an inheritance
+   heirarchy.
+</p>
+<p>
+   In Java, however, a child class can inherit from only one parent.
+   (Other languages allow this through "multiple inheritance").
+</p>
+<p>
+   Inheritance is declared in a java class through the <a href=glossary.php?term=extends>extends</a>
+   keyword.  See the <a href=glossary.php?term=class_header>class header</a>
+   glossary
+   entry.
+</p>

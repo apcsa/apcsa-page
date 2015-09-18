@@ -1,6 +1,0 @@
-<p>
-   A callback is a method that gets called by the underlying Java system,
-   rather than called directly by another programmer-written method.
-   In this course, tne common use of callbacks is in methods to 
-   handle <a href="glossary.php?term=mouse_event">mouse events</a>.
-</p>

@@ -1,0 +1,6 @@
+<p> 
+A sorting method in which two elements in the list to be sorted are swapped.  The 
+process works by first swapping the minimum value in the list with the value in the 
+first position, then the minimum value in the remaining part of the list with the 
+value in the second position, and so forth.
+</p>

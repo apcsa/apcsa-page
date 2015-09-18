@@ -1,6 +1,0 @@
-<p> 
-A <i>primitive type</i> is a variable type that does not refer to an instance of an object.
-<tt>int</tt> and <tt>double</tt> are examples of primitive types.
-</p>
-
-<p>Also see the glossary entry for <a href="glossary.php?term=reference_type">reference type</a>.</p>
