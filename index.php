@@ -33,7 +33,7 @@ include_once "header.php";
 		<td><img src="static/art/robots/talk_constance_right6.png" alt="image of constance" width="80"/>
 	</tr>
 	<tr>
-		<td><a href="../program/projects">BlueJ project repository</a></td>
+		<td><a href="../code">Java project repository</a></td>
 		<td><img src="static/art/robots/talk_twitterton_right3.png" alt="image of twitterton" width="80"/>
 	</tr>
 	<tr style="display:none;">
